@@ -13,22 +13,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Andrey the Carpenter | Custom Woodwork & Home Repairs in Delray Beach",
+  title: "Andrey the Carpenter | Custom Woodwork & Home Repairs in Connecticut",
   description:
-    "Skilled carpenter and handyman in Delray Beach, FL. Custom shelving, cabinetry, trim work, and reliable home repairs for 55+ communities.",
+    "Skilled carpenter and handyman in Fairfield County, CT. Custom shelving, cabinetry, trim work, and reliable home repairs for colonial, Cape Cod, and historic homes.",
   keywords: [
     "carpenter",
     "handyman",
-    "Delray Beach",
+    "Connecticut",
+    "Fairfield County",
     "home repairs",
     "woodwork",
     "custom shelving",
-    "Florida handyman",
+    "CT carpenter",
+    "historic home repair",
   ],
   openGraph: {
-    title: "Andrey the Carpenter | Custom Woodwork & Home Repairs in Delray Beach",
+    title: "Andrey the Carpenter | Custom Woodwork & Home Repairs in Connecticut",
     description:
-      "Skilled carpenter and handyman in Delray Beach, FL. Custom shelving, cabinetry, trim work, and reliable home repairs for 55+ communities.",
+      "Skilled carpenter and handyman in Fairfield County, CT. Custom shelving, cabinetry, trim work, and reliable home repairs for colonial, Cape Cod, and historic homes.",
     url: "https://andrey-the-carpenter.pages.dev",
     siteName: "Andrey the Carpenter",
     type: "website",

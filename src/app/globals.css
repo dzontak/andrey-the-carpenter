@@ -1,18 +1,18 @@
 @import "tailwindcss";
 
 :root {
-  --background: #F4F7FA;
-  --foreground: #1A2B3C;
-  --primary: #3B6B8A;
-  --primary-light: #5A8DAE;
-  --primary-dark: #2A4F6A;
-  --accent: #4A9A8A;
-  --accent-light: #6BB5A5;
-  --accent-dark: #357A6C;
-  --highlight: #5AAFCF;
-  --cream: #FFFFFF;
-  --surface-dark: #E2E8EE;
-  --surface-medium: #EBF0F5;
+  --background: #FAF8F5;
+  --foreground: #2C1810;
+  --primary: #5C3D2E;
+  --primary-light: #7A5A4A;
+  --primary-dark: #3E2518;
+  --accent: #8B6914;
+  --accent-light: #B8922E;
+  --accent-dark: #6B500E;
+  --highlight: #C4833E;
+  --cream: #FFFDF9;
+  --surface-dark: #EDE8E2;
+  --surface-medium: #F3F0EB;
 }
 
 @theme inline {
@@ -84,40 +84,40 @@ body {
   background: conic-gradient(
     from 0deg,
     transparent 0deg,
-    rgba(59, 107, 138, 0.03) 10deg,
+    rgba(92, 61, 46, 0.04) 10deg,
     transparent 20deg,
     transparent 30deg,
-    rgba(59, 107, 138, 0.03) 40deg,
+    rgba(92, 61, 46, 0.04) 40deg,
     transparent 50deg,
     transparent 60deg,
-    rgba(59, 107, 138, 0.03) 70deg,
+    rgba(92, 61, 46, 0.04) 70deg,
     transparent 80deg,
     transparent 90deg,
-    rgba(59, 107, 138, 0.03) 100deg,
+    rgba(92, 61, 46, 0.04) 100deg,
     transparent 110deg,
     transparent 120deg,
-    rgba(59, 107, 138, 0.03) 130deg,
+    rgba(92, 61, 46, 0.04) 130deg,
     transparent 140deg,
     transparent 150deg,
-    rgba(59, 107, 138, 0.03) 160deg,
+    rgba(92, 61, 46, 0.04) 160deg,
     transparent 170deg,
     transparent 180deg,
-    rgba(59, 107, 138, 0.03) 190deg,
+    rgba(92, 61, 46, 0.04) 190deg,
     transparent 200deg,
     transparent 210deg,
-    rgba(59, 107, 138, 0.03) 220deg,
+    rgba(92, 61, 46, 0.04) 220deg,
     transparent 230deg,
     transparent 240deg,
-    rgba(59, 107, 138, 0.03) 250deg,
+    rgba(92, 61, 46, 0.04) 250deg,
     transparent 260deg,
     transparent 270deg,
-    rgba(59, 107, 138, 0.03) 280deg,
+    rgba(92, 61, 46, 0.04) 280deg,
     transparent 290deg,
     transparent 300deg,
-    rgba(59, 107, 138, 0.03) 310deg,
+    rgba(92, 61, 46, 0.04) 310deg,
     transparent 320deg,
     transparent 330deg,
-    rgba(59, 107, 138, 0.03) 340deg,
+    rgba(92, 61, 46, 0.04) 340deg,
     transparent 350deg,
     transparent 360deg
   );

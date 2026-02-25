@@ -43,33 +43,33 @@ const services = [
   {
     step: "01",
     title: "Custom Woodwork",
-    text: "Shelving, built-ins, mantels, and furniture pieces designed and crafted to fit your space perfectly.",
+    text: "Shelving, built-ins, mantels, and furniture pieces designed to complement your colonial, Cape Cod, or farmhouse home.",
   },
   {
     step: "02",
     title: "Cabinet & Trim Work",
-    text: "Kitchen and bathroom cabinet repairs, crown molding, baseboards, and finish carpentry that transforms a room.",
+    text: "Kitchen and bathroom cabinet repairs, crown molding, baseboards, and finish carpentry that honors your home\u2019s character.",
   },
   {
     step: "03",
     title: "Home Repairs",
-    text: "Door fixes, drywall patches, fixture installs, and all those small jobs that pile up — handled professionally.",
+    text: "Door fixes, drywall patches, fixture installs, and all those small jobs that pile up \u2014 especially after a tough New England winter.",
   },
   {
     step: "04",
-    title: "Maintenance Visits",
-    text: "Recurring visits to keep your home in top shape. Perfect for seasonal residents and snowbirds.",
+    title: "Historic Home Care",
+    text: "Sensitive repairs and restorations for older Connecticut homes. Preserving original details while adding modern function.",
   },
 ];
 
 const trustFeatures = [
   "30+ years of carpentry experience",
-  "Punctual — I show up when I say I will",
+  "Punctual \u2014 I show up when I say I will",
   "Clean worksite, every time",
   "Clear communication, no surprises",
-  "HOA and condo-friendly service",
-  "One-off repairs or recurring maintenance plans",
-  "Serving Delray Beach and nearby 55+ communities",
+  "Experienced with historic and colonial homes",
+  "One-off repairs or seasonal maintenance plans",
+  "Serving Fairfield County and communities across Connecticut",
 ];
 
 /* ─── Page ─── */
@@ -139,7 +139,7 @@ export default function Home() {
           </h1>
 
           <p className="text-xl md:text-2xl text-foreground/60 mb-4 font-light">
-            An artist&apos;s eye meets master craftsmanship — handcrafted woodwork and reliable fixes for Delray Beach homeowners
+            An artist&apos;s eye meets master craftsmanship — handcrafted woodwork and reliable repairs for Connecticut homeowners
           </p>
 
           <div className="mt-10 mb-12">
@@ -185,7 +185,7 @@ export default function Home() {
             <span className="text-gradient-accent">Care</span>
           </h2>
           <p className="text-lg text-foreground/60 max-w-2xl mx-auto mb-16 leading-relaxed">
-            Whether it&apos;s a custom bookshelf, kitchen cabinet refresh, or a list of small fixes around the house — I bring the same attention to detail and respect for your home to every job. Serving 55+ communities, condos, and villas across Delray Beach.
+            Whether it&apos;s a custom bookshelf, kitchen cabinet refresh, or a list of small fixes around the house — I bring the same attention to detail and respect for your home to every job. Serving colonials, Capes, and historic homes across Fairfield County and beyond.
           </p>
 
           {/* Service steps */}
@@ -261,7 +261,7 @@ export default function Home() {
               Send Email
             </a>
             <a
-              href="tel:561-555-0173"
+              href="tel:203-555-0173"
               className="inline-flex items-center gap-3 border border-foreground/20 hover:border-primary/50 text-foreground font-bold px-8 py-4 rounded-full text-lg transition-all hover:scale-105"
             >
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
@@ -273,7 +273,7 @@ export default function Home() {
 
           <div className="text-sm text-foreground/40">
             <p className="mb-2">andrey@andreythecarpenter.com</p>
-            <p>Serving Delray Beach, FL • Same day response</p>
+            <p>Serving Fairfield County, CT &amp; surrounding areas • Same day response</p>
           </div>
         </div>
       </section>
